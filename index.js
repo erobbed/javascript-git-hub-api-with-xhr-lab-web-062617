@@ -46,7 +46,7 @@ function displayCommits() {
 }
 
 function setToken(req){
-  req.setRequestHeader("Authorization", "token f5609ab59ca2cd7a8f04bbb4572971d113ff15b4")
+  req.setRequestHeader("Authorization", "token (token code goes here)")
 }
 
 
